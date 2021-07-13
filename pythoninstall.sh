@@ -26,4 +26,3 @@ rm Python-3.9.6.tar.xz
 . ~/.bashrc
 
 
-sudo update-alternatives --config python 
